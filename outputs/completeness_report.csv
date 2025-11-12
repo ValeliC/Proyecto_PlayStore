@@ -1,0 +1,14 @@
+column,dtype,nulls,null_pct
+rating,float64,1474,13.6
+current_ver,object,8,0.07
+android_ver,object,3,0.03
+type,object,1,0.01
+content_rating,object,1,0.01
+app,object,0,0.0
+category,object,0,0.0
+reviews,object,0,0.0
+size,object,0,0.0
+installs,object,0,0.0
+price,object,0,0.0
+genres,object,0,0.0
+last_updated,object,0,0.0

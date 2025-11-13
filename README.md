@@ -78,3 +78,12 @@ La API responderá algo como:
 
 11.5 ¿Para qué sirve esta API?
 Sirve para integrarla a sistemas internos, dashboards, aplicaciones web, procesos automáticos o análisis de mercado. Permite evaluar rápidamente nuevas apps sin esperar a que usuarios reales las califiquen.
+
+12. Acceso al Notebook del Proyecto
+El notebook es pesado, por lo que fue alojado en Google Drive.
+
+Ver notebook en Google Drive:
+https://drive.google.com/file/d/1fb_O4tDVoVGEuSzrWJaT7Bc8iIK3Izyx/view?usp=sharing
+
+Ejecutar notebook en Google Colab (copiar enlace de Drive en Colab si se desea):
+https://colab.research.google.com
